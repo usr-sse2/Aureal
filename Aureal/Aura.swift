@@ -86,6 +86,7 @@ let AuraProductIDs = [
     0x1867,
     0x1889,
     // potentially: 0x1939,
+    0x19af
 ]
 
 let AuraCommand: UInt8 = 0xec
